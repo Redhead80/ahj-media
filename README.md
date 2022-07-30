@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ipu05qlutels4p56?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/ahj-media-text)
+[![Build status](https://ci.appveyor.com/api/projects/status/bo8fjby2k9j2vs31/branch/master?svg=true)](https://ci.appveyor.com/project/Redhead80/ahj-media/branch/master)
 
 [GitHub Pages](https://Redhead80.github.io/ahj-media/)
 

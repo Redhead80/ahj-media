@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/bo8fjby2k9j2vs31/branch/master?svg=true)](https://ci.appveyor.com/project/Redhead80/ahj-media/branch/master)
 
-[GitHub Pages](https://Redhead80.github.io/ahj-media/)
+[GitHub Pages](https://redhead80.github.io/ahj-media/)
 
 
 **Важно**: в рамках этого задания вы будете разрабатывать **один проект**, в который добавляется новая функциональность. Поэтому все три задачи нужно делать в одном репозитории (не забудьте опубликовать проект на GitHub Pages).
